@@ -1,0 +1,1 @@
+http://www.ldem.me/blog/2019/08/11/tensorflow%e5%ae%9e%e7%8e%b0%e7%9f%a9%e9%98%b5embedding%e5%8a%a0%e6%9d%83/
