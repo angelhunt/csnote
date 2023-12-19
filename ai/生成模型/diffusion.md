@@ -71,6 +71,8 @@ https://kexue.fm/archives/9164
 
 ![](images/2023-10-18-15-31-26.png)
 
+## 采样生成
+
 
 
 ## 优化目标
@@ -122,7 +124,14 @@ $\hspace{3em} = - \int p(x_t|x_{t-1}) p(x_{t-1}|x_0)p(x_0)\log q(x_{t-1}|x_t)$
 之后的推导比较复杂可以参考，最终结果就是得到标准的损失函数
 https://kexue.fm/archives/9152
 
-## 超参数设置
+# 多视角
+
+diffusion可以从多种视角看，比如VAE, score-based, SDE其实都是一样
+
+I think this is exacerbated by the fact that there are multiple formalisms (e.g. VAE-style, score-based, SDE, ...) and everything has 2-3 different names, depending on who you ask!
+
+
+
 
 
 # bayes视角
